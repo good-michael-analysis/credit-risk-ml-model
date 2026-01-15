@@ -21,3 +21,15 @@ Random Forest achieved the strongest overall performance and provided improved r
 
 ## How to Run
 Open the notebook and run all cells sequentially.
+
+## Data
+
+This project uses the Credit Card Approval dataset from Kaggle:
+
+https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
+
+Files used:
+- application_record.csv
+- credit_record.csv
+
+Due to file size limits, raw datasets are not included in this repository.

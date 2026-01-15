@@ -33,3 +33,9 @@ Files used:
 - credit_record.csv
 
 Due to file size limits, raw datasets are not included in this repository.
+
+### Dataset Access
+
+This notebook assumes the Kaggle datasets
+`application_record.csv` and `credit_record.csv`
+are available in the working directory.
